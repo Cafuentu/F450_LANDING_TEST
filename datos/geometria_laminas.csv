@@ -1,0 +1,4 @@
+id,figura,papel_ancho_mm,papel_alto_mm,cuadro_figura_mm,figura_x0_mm,figura_y0_mm,figura_x1_mm,figura_y1_mm,franja_libre_inferior_alto_mm,franja_libre_superior_alto_mm,franja_lateral_ancho_mm,mayor_circulo_libre_diam_mm,lado_tren_mm,margen_tren_eje_largo_mm,margen_tren_eje_corto_mm
+SLSD-A0-01,cruz,841,1189,250.0,295.5,469.5,545.5,719.5,469.5,469.5,295.5,469.5,343,63.2,249.0
+SLSD-A0-02,estrella,841,1189,250.0,295.5,469.5,545.5,719.5,469.5,469.5,295.5,469.5,343,63.2,249.0
+SLSD-A0-03,cara,841,1189,250.0,295.5,469.5,545.5,719.5,469.5,469.5,295.5,469.5,343,63.2,249.0

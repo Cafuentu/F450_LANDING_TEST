@@ -1,0 +1,158 @@
+[
+ {
+  "id": "SLSD-A0-01",
+  "figura": "cruz",
+  "papel_mm": [
+   841.0,
+   1189.0
+  ],
+  "cuadro_figura_mm": 250.0,
+  "centro_figura_mm": [
+   420.5,
+   594.5
+  ],
+  "bbox_figura_mm": [
+   295.5,
+   469.5,
+   545.5,
+   719.5
+  ],
+  "mayor_circulo_libre": {
+   "centro_mm": [
+    420.5,
+    234.75
+   ],
+   "diametro_mm": 469.5
+  },
+  "zonas_libres_rect_mm": {
+   "inferior": [
+    0,
+    0,
+    841.0,
+    469.5
+   ],
+   "superior": [
+    0,
+    719.5,
+    841.0,
+    1189.0
+   ],
+   "izquierda": [
+    0,
+    0,
+    295.5,
+    1189.0
+   ],
+   "derecha": [
+    545.5,
+    0,
+    841.0,
+    1189.0
+   ]
+  }
+ },
+ {
+  "id": "SLSD-A0-02",
+  "figura": "estrella",
+  "papel_mm": [
+   841.0,
+   1189.0
+  ],
+  "cuadro_figura_mm": 250.0,
+  "centro_figura_mm": [
+   420.5,
+   594.5
+  ],
+  "bbox_figura_mm": [
+   295.5,
+   469.5,
+   545.5,
+   719.5
+  ],
+  "mayor_circulo_libre": {
+   "centro_mm": [
+    420.5,
+    234.75
+   ],
+   "diametro_mm": 469.5
+  },
+  "zonas_libres_rect_mm": {
+   "inferior": [
+    0,
+    0,
+    841.0,
+    469.5
+   ],
+   "superior": [
+    0,
+    719.5,
+    841.0,
+    1189.0
+   ],
+   "izquierda": [
+    0,
+    0,
+    295.5,
+    1189.0
+   ],
+   "derecha": [
+    545.5,
+    0,
+    841.0,
+    1189.0
+   ]
+  }
+ },
+ {
+  "id": "SLSD-A0-03",
+  "figura": "cara",
+  "papel_mm": [
+   841.0,
+   1189.0
+  ],
+  "cuadro_figura_mm": 250.0,
+  "centro_figura_mm": [
+   420.5,
+   594.5
+  ],
+  "bbox_figura_mm": [
+   295.5,
+   469.5,
+   545.5,
+   719.5
+  ],
+  "mayor_circulo_libre": {
+   "centro_mm": [
+    420.5,
+    234.75
+   ],
+   "diametro_mm": 469.5
+  },
+  "zonas_libres_rect_mm": {
+   "inferior": [
+    0,
+    0,
+    841.0,
+    469.5
+   ],
+   "superior": [
+    0,
+    719.5,
+    841.0,
+    1189.0
+   ],
+   "izquierda": [
+    0,
+    0,
+    295.5,
+    1189.0
+   ],
+   "derecha": [
+    545.5,
+    0,
+    841.0,
+    1189.0
+   ]
+  }
+ }
+]

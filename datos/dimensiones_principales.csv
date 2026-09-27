@@ -1,0 +1,13 @@
+magnitud,valor_mm
+distancia_entre_ejes_diagonal,450.0
+distancia_entre_motores_vecinos,318.2
+diametro_helice,254.0
+largo_total_con_helices,490.0
+ancho_total_con_helices,527.0
+altura_total_con_mastil_gps,274.0
+lado_cuadrado_apoyos_tren,343.0
+altura_camara_con_tren_apoyado,64.3
+camara_adelante_del_centro_frame,68.0
+camara_bajo_centro_frame,50.4
+separacion_placas,38.6
+cg_sobre_centro_frame,12.4

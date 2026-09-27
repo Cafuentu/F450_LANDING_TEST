@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.blend1
+logs/
+logs_pc/
+resultados/

@@ -1,0 +1,3 @@
+conjunto,masa_kg,cg_x_mm,cg_y_mm,cg_z_mm,Ixx_kgm2,Iyy_kgm2,Izz_kgm2
+vehiculo_completo,1.1654,-3.4,0.2,12.4,0.01291,0.01353,0.02342
+body_sin_rotores,1.1254,-3.5,0.2,10.7,0.01166,0.01233,0.02115

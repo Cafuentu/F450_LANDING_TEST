@@ -1,0 +1,9 @@
+{
+  "camara": "Raspberry Pi Camera Module v2 (Sony IMX219)",
+  "fuente": "NOMINAL de hoja de datos: focal 3.04 mm, pixel 1.12 um, sensor 3280x2464 -> fx = 2714.3 px a resolucion completa. Reemplazar por la calibracion real (calibracion_camara.py --fotos).",
+  "modo": "campo de vision completo escalado a 640x480 (factor 640/3280)",
+  "ancho": 640, "alto": 480,
+  "fx": 529.6, "fy": 529.6, "cx": 319.5, "cy": 239.5,
+  "dist": [0.0, 0.0, 0.0, 0.0, 0.0],
+  "calibrada": false
+}
